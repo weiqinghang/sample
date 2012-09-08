@@ -1,4 +1,4 @@
 <?php
     echo 'hello world';
-    echo 'this is a new site';
+    echo 'this is a new bite';
 ?>
